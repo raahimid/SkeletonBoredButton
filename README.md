@@ -4,7 +4,7 @@
 
 Build an application in Flutter that displays live COVID-19 data and provides tips on staying safe!
 
-https://github.com/raahimid/ShellHacks-Flutter-Worksshop
+Completed Project: https://github.com/raahimid/ShellHacks-Flutter-Worksshop
 
 <img src="https://github.com/raahimid/Flutter-Projects/blob/master/images/FlutterMockup.png" width="300">
 
